@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import "./globals.css";
+import "./ladder-fix.css";
 
 export const metadata: Metadata = {
   title: "Anderson Blanco — Creative Technologist",
